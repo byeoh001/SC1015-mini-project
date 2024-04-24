@@ -40,7 +40,6 @@ Our problem statment is to determine which is more important in predicting diabe
 - Classification Decision Tree from sklearn
 - Another form of categorical output model which is Logistic Regression from sklearn
 - Concepts about the confusion metrics such as True Positive Rate, True Negative Rate, False Positive Rate, False Negative Rate.
-- 
 ### References
 ***
 1.  https://www.diabetesatlas.org/data/en/country/179/sg.html
